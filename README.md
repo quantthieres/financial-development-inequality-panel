@@ -1,6 +1,17 @@
-# Financial Development and Inequality: Evidence from Panel Data
+<h1 align="center">
+  Financial Development and Inequality: Evidence from Panel Data
+</h1>
 
-**Desenvolvimento Financeiro e Desigualdade: Evidências em Dados em Painel**
+<p align="center">
+  <strong>Desenvolvimento Financeiro e Desigualdade: Evidências em Dados em Painel</strong>
+</p>
+
+<p align="center">
+
+  <img src="outputs/figures/fixed_effects_credit_gini.png" width="800">
+
+</p>
+Note: The figure below shows the within-country relationship between lagged domestic credit and inequality after removing country-specific fixed effects.
 
 ## Overview
 
