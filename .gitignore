@@ -1,0 +1,34 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# R session artifacts
+*.rds
+*.rda
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary and cache files
+*~
+*.tmp
+*.log
+__pycache__/
+
+# R package build artifacts
+*.tar.gz
+*.so
+*.dll
+
+# knitr / rmarkdown cache
+*_cache/
+*_files/
+
+# Large raw data files (data is fetched via WDI at runtime)
+data/*.csv
+data/*.xlsx
+data/*.dta
