@@ -1,0 +1,9 @@
+# Generated outputs: do not count in GitHub language statistics
+outputs/** linguist-generated=true
+
+# Documentation / non-code assets
+slides/** linguist-documentation=true
+data/** linguist-documentation=true
+
+# Make sure R scripts are classified correctly
+*.R linguist-language=R
